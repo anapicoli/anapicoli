@@ -4,10 +4,6 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anapicoli&bg_color=000000&color=349400&line=b9ff8e&point=349400&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anapicoli&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
 ### Main skills:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
@@ -32,10 +28,5 @@
 
 ### Other Knowledges
 ![Java](https://img.shields.io/badge/-java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117)&nbsp;
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{anapicoli}/count.svg" /></p> 
-<br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=50ff00&height=120&section=footer"/>
