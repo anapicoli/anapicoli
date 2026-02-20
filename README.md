@@ -2,11 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=50ff00&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I+am+Ana+Picoli;I+study+analysis+and+systems+development+at+Senai;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=anapicoli&show_icons=true&count_private=true&hide_border=true&title_color=12ad00&icon_color=50ff00&text_color=c9d1d9&bg_color=0d1117" alt="Ana Picoli github stats"/>
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anapicoli&layout=compact&hide_border=true&title_color=50ff00&text_color=50ff00&bg_color=0d1117" />
-</div>
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anapicoli&bg_color=000000&color=349400&line=b9ff8e&point=349400&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
